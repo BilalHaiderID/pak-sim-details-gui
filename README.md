@@ -226,13 +226,14 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL 3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👨‍💻 Author
 
 **Bilal Haider**
+- Email: bilalhaiderid@gmail.com
 - GitHub: [@BilalHaiderID](https://github.com/BilalHaiderID)
 
 ---
